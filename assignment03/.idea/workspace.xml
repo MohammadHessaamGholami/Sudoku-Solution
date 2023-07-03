@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc67802e-a26c-4e34-bd95-3d14c6f13a42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../BUGS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TRICKS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../asm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bootasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bootmain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../buf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../console.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../counts.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../counts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../countstest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../date.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../defs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dot-bochsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../echo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../entry.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../entryother.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fcntl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../file.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../file.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../forktest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gdbutil" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grep.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../init.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../initcode.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ioapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kbd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kbd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kernel.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kill.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ln.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../log.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../memide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../memlayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mkdir.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mkfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../param.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../picirq.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pipe.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pr.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../printf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../printpcs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runoff.list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runoff.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../runoff1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sh.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../show1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sign.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sleep1.p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sleeplock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sleeplock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spinlock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spinlock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spinp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stressfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../string.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swtch.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symlink.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../syscall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../syscall.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sysfile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sysproc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toc.ftr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../toc.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../trap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../trapasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../traps.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ulib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../umalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../user.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usertests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../usys.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vectors.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../x86.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zombie.c" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SudokuCSP/csp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SudokuCSP/make_submission.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SudokuCSP/search.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SudokuCSP/solutions.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SudokuCSP/sudoku.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="SudokuCSP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment03" type="462c0819:PsiDirectoryNode" />
+              <item name="SudokuCSP" type="462c0819:PsiDirectoryNode" />
+              <item name="boards" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SudokuCSP" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="assignment03" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc67802e-a26c-4e34-bd95-3d14c6f13a42" name="Default Changelist" comment="" />
+      <created>1555596279246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555596279246</updated>
+      <workItem from="1555596280890" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="518000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SudokuCSP/search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuCSP/solutions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuCSP/boards/example.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuCSP/make_submission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuCSP/sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuCSP/csp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

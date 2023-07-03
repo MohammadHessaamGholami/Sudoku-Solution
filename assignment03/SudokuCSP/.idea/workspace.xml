@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8225ae3d-49d1-4509-8569-902aecb79ca6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../BUGS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TRICKS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../asm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootmain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../buf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../console.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counts.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../countstest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cuth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../date.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../defs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dot-bochsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../echo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../elf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../entry.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../entryother.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../fcntl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../forktest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../fs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../fs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gdbutil" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../grep.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../init.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../initcode.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ioapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kbd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kbd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kernel.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kill.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ln.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../log.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../memide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../memlayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mkdir.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mkfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mmu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../param.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picirq.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pipe.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pr.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../printf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../printpcs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../rm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff.list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sh.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../show1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sign.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sleep1.p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sleeplock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sleeplock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spinlock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spinlock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spinp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stressfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../string.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swtch.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../symlink.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../syscall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../syscall.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sysfile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sysproc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../toc.ftr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../toc.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../trap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../trapasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../traps.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ulib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../umalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../user.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../usertests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../usys.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../vectors.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../vm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../x86.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../zombie.c" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solutions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2992">
+              <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sudoku.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="75" column="35" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easyy.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="80" selection-start-column="80" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/make_submission.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>csp</find>
+      <find>B</find>
+      <find>removals</find>
+      <find>initial</find>
+      <find>select_unassigned_variable</find>
+      <find>different_values_constraint</find>
+      <find>mrv</find>
+      <find>actions</find>
+      <find>result</find>
+      <find>list</find>
+      <find>unordered_domain_values</find>
+      <find>goal</find>
+      <find>backtracking_search</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/csp.py" />
+        <option value="$PROJECT_DIR$/solutions.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1390" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SudokuCSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SudokuCSP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ai_hw/assignment04/othello" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8225ae3d-49d1-4509-8569-902aecb79ca6" name="Default Changelist" comment="" />
+      <created>1555596801836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555596801836</updated>
+      <workItem from="1555596803503" duration="9836000" />
+      <workItem from="1555641024605" duration="6563000" />
+      <workItem from="1555690938271" duration="7144000" />
+      <workItem from="1555740452146" duration="5643000" />
+      <workItem from="1555751668366" duration="2523000" />
+      <workItem from="1555761038722" duration="3506000" />
+      <workItem from="1555829689166" duration="2569000" />
+      <workItem from="1556178305718" duration="15277000" />
+      <workItem from="1557076296506" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53143000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1936912" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.412527" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3488121" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="75" column="35" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="80" selection-start-column="80" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_submission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
